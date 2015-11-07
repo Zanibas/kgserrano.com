@@ -1,1 +1,2 @@
-Writing something here eventually.
+Welcome to block--/kgserrano.com!
+===============================
