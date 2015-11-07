@@ -50,7 +50,27 @@ Another domain marketplace I use for non-standard top-level domain names (such a
 
 This was my starting point for learning Markdown, a useful markup language that quickly converts into HTML. This document is written in Markdown as well as the README.
 
-Frustrating Issues
+* __Git__: [https://git-scm.com/](https://git-scm.com/)
+
+This is the version control software I use to keep track of the changes in my code.
+
+* __GitHub__: [https://github.com/](https://github.com/)
+
+The web-based repository I use with Git. This is where you're seeing the repository right now!
+
+* __PuTTY__: [http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+
+A remote terminal program for Windows. This allows me to SSH into my server and perform console commands there. I also use Pageant and PuTTYgen to allow for passwordless logins.
+
+* __WinSCP__: [https://winscp.net/eng/docs/introduction](https://winscp.net/eng/docs/introduction)
+
+An FTP/SFTP client that allows file transfer between my computer and the website's server. Useful for when I want to bypass the github repo.
+
+* __envatotuts+__: The Perfect Workflow, with Git, Github, and SSH: [http://code.tutsplus.com/tutorials/the-perfect-workflow-with-git-github-and-ssh--net-19564](http://code.tutsplus.com/tutorials/the-perfect-workflow-with-git-github-and-ssh--net-19564)
+
+A very useful tutorial for automating your server to pull from the GitHub repository after you push. Reduces the need to manually pull via SSH.
+
+Issues
 -------
 
 ### Photoshop
