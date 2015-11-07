@@ -46,3 +46,20 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* BEGIN CSS */
+
+/* General */
+
+body {
+    background-image: url("http://www.kgserrano.com/assets/images/small_steps.png");
+    font: 400 16px/22px "Open Sans", Helvetica, Arial, sans-serif;
+    color: #000000
+}
+
+/* Typography */
+
+h1 {
+    font: 400 16px/22px "Muli", sans-serif;
+    font-size: 40px;
+}
