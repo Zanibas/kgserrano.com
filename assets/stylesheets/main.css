@@ -51,19 +51,82 @@ table {
 
 /* General */
 
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.container {
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 960px
+}
+
 body {
-    background-image: url("http://www.kgserrano.com/assets/images/small_steps.png");
-    font: 400 16px/22px "Open Sans", Helvetica, Arial, sans-serif;
-    color: #000000
+    background-color: #F5E9D3;
+    font: 400 16px/24px "Open Sans", Helvetica, Arial, sans-serif;
+    color: #313131
 }
 
 /* Typography */
+
+h1, h3, h4, h5, p {
+    margin-bottom: 22px;
+}
 
 h1 {
     font: 400 16px/22px "Muli", sans-serif;
     font-size: 40px;
 }
 
+h2 {
+    font-size: 25px;
+}
+
 h3 {
     font-size: 22px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #FF6037;
+}
+
+
+
+/* Homepage */
+
+.logo {
+    margin: auto;
+    padding-top: 250px;
+}
+
+.logo h1,h3 {
+    text-align: center;
+}
+
+.introduction {
+    background-color: #80CCEA;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+    line-height: 200px;
+}
+
+.introduction h2 {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+footer {
+    padding-top: 10px;
+    text-align: center;
 }
