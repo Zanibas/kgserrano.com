@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/kgserrano
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kgserrano.com
+  * I am kgserrano (https://keybase.io/kgserrano) on keybase.
+  * I have a public key with fingerprint 0FD3 E3A6 7523 A6CE 6794  C0BD 0944 A516 C726 1DDE
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016d950832460c6261c6e82d935d1fb0fbf0a086d144d39de93405ac5202b13a730a",
+            "fingerprint": "0fd3e3a67523a6ce6794c0bd0944a516c7261dde",
+            "host": "keybase.io",
+            "key_id": "0944a516c7261dde",
+            "kid": "01016d950832460c6261c6e82d935d1fb0fbf0a086d144d39de93405ac5202b13a730a",
+            "uid": "8505dc33788668c7c55ad873336d9c19",
+            "username": "kgserrano"
+        },
+        "service": {
+            "hostname": "kgserrano.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454733359,
+    "expire_in": 157680000,
+    "prev": "3109ee4217dd1c58d0b12eca0fa789dcbd10c46053e1152acfce7cd84712c679",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIZAnicrVJbSFRBGF7t5q61RUGSQcSp6MHVZs6c63aHyCCifLDsgtucmVk9ue7Z
+zh5vpeFbdzI0SPKhC0ViPVQWEglegigFURM0KqOHCLyEVxDCmmP1Uq/Nw1y/7/u/
+/5//5ZJ5Hl/C4ubH99XLy9MTOlqvF3kOPi3ddFowLFomBE8LBWxuYRHK4k6owKRC
+UAAQQIXqMtCQKCmAKKICicI0kepIpjBsgLARBhhoCoWSRJFOmY4kIGMii0A0IMIq
+AlgICGEzmsfsmG1GHVc2TBFDWFFlkc+EKaouEWBQoEsSlqFCVB6HUsaJ+VbcZXBz
+Bo6zDNPid/wQ+mXvX/x/9l00J6fJQKYEIVXTFEUjKpFlTDUVIcSDEKi7wDizo7iQ
+uV7z+N7GUUuoCAh8W2wS5lbWTeVvSAaxCjk7ZluORawIf8p3nFjQZTplMRdawozQ
+b5GQYUYpLyQnFDM7blpRIQg5kjimqwolWXI9yXpAYKUx02Yh00XIqqIBPtwwrJhL
+Igh0xiQRqpRCImsUGFBkBIMwVjWdEoNCQHjZZMQglEVMwoSphGqSCkXC/0pw0zrJ
+8wtK3CbO45JxMy+KnSKbCRVtLcfmexJ8noULEt0G8/i8y/60HWaLZjfG/d7h/d97
+O2q+nWmoH9tQumbdzs5w2tS+K89u7K6sT6pRmq5JC14wW/Cl12neHZmJff6uNP/e
+yIQWmcRbmhcTPw7Cw8N3tttLb28bePKjfUX1SPdQ1vnnzvp7b5rtnZ2t1q5zAZR8
+dLw5SkZLkt9l70m6mtCU0nK8vBL3HPANdudWZwtvL5IPqbUtYw9zVg+cPXsx5dLn
+OoMWTE2+GnkEG4+2qqQIHkKtt2ZzBi71rNxz5HVD1d5pMrVjY2YX6K+s6htq6+7y
+147n+tJPzdx9UdjYP7g1lFzasbl/tH3L+ytfy5XLnyK9N7NaVp3wBnZPTF/4AlIf
+kJnxj1lrfwLZXz/d
+=wBev
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kgserrano
+
+==================================================================
